@@ -1,0 +1,13 @@
+{
+    "name": "UIDemo",
+    "alias": "uidemo",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\UIDemo\\Providers\\UIDemoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
